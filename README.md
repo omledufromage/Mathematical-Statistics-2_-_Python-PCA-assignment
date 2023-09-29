@@ -4,3 +4,5 @@ The [assignment](https://github.com/omledufromage/Mathematical-Statistics-2_-_Py
 
 The [final report](https://github.com/omledufromage/Mathematical-Statistics-2_-_Python-PCA-assignment/blob/master/Devoir_STAT_MATH_-_Marcio_REVERBEL.pdf) is presented partially in French and partially in English.
 
+---
+**NOTE**: To run the code, *Mathematical-Statistics-2_-_Python-PCA-assignment*, *DataDepenses.csv* and *helper.py* must be in the same folder. The helper file simply provides functions which automatize the process of placing figures and tables in designated folders, to facilitate the process of writing the LaTeX report.
